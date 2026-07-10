@@ -121,18 +121,6 @@ Sitio desarrollado con HTML, CSS, PHP y MySQL para la administración dinámica 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jjhern4ndez&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhern4ndez&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🤝 Conectemos
 
 💼 LinkedIn

@@ -1,138 +1,112 @@
-<h1 align="center">¡Hola! 👋 Soy Juan José Hernández</h1>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:38BDF8&section=header&text=Juan%20Jos%C3%A9%20Hern%C3%A1ndez&fontSize=54&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%E2%80%A2%20Building%20scalable%20web%20applications&descAlignY=60&descSize=18&descColor=C9D1D9)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+REST+APIs+with+Laravel+%26+Express.js;Crafting+modern+web+applications+with+Angular)](https://git.io/typing-svg)
 
-<h3 align="center">Ingeniero de Sistemas | Desarrollador Full Stack</h3>
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+<p>
+  Hi! I'm <strong>Juan</strong>, a software developer from Colombia.
+  I enjoy designing, building and deploying scalable,
+  secure and visually appealing web applications using 
+  clean architectures and development best practices.
+</p>
+
+<p>
+  My main stack includes <strong>Laravel, PHP, Node.js, Express, Angular, TypeScript and MySQL.</strong>
+  I have experience designing RESTful APIs, developing enterprise applications, and delivering solutions that prioritize performance, maintainability, and user experience.
+  I'm always looking for opportunities to learn new technologies, improve my skills, and build solutions that solve real-world problems.
+</p>
+
+<p>
+  I'm currently expanding my knowledge in <strong>Software Architecture, DevOps, and Cloud technologies</strong> to design more scalable and reliable systems.
+</p>
+
+<br/>
+
+---
+## 📌 Quick Facts
+
+- 💼 Full Stack Software Developer
+- 🌎 Based in Colombia
+- 💻 6+ years of professional experience
+- 🏢 Experienced in enterprise software development
+- 🌱 Currently learning Software Architecture, DevOps & Cloud
+- ☕ Coffee-powered developer
 
 ---
 
-## 👨‍💻 Sobre mí
+## ✏️ What I've Worked On
 
-Soy **Ingeniero de Sistemas** con más de **5 años de experiencia** desarrollando aplicaciones web y soluciones empresariales.
+Throughout my career, I've contributed to the development of:
 
-Me especializo en el desarrollo **Backend** utilizando **Laravel**, complementando mis proyectos con **Angular** en el Frontend.
+✔️ Document Management Systems
 
-Disfruto diseñar arquitecturas escalables, desarrollar APIs REST, optimizar bases de datos y construir software limpio, mantenible y de alto rendimiento.
+✔️ Electronic Invoicing Solutions
 
-Actualmente continúo fortaleciendo mis conocimientos en **Arquitectura de Software, DevOps y tecnologías Cloud**.
+✔️ Inventory Management Systems
 
----
+✔️ RESTful APIs
 
-## 🚀 Tecnologías
+✔️ Third-Party Service Integrations
 
-### Backend
+✔️ SQL Query Optimization
 
-- PHP
-- Laravel
-- Node.js
-- Express.js
-- APIs REST
-- JWT
-- Swagger / OpenAPI
+✔️ Authentication & Authorization Systems
 
-### Frontend
+✔️ Enterprise Web Applications
 
-- Angular
-- TypeScript
-- JavaScript
-- Angular Material
-- Tailwind CSS
-- RxJS
+✔️ Docker-based Environments
 
-### Bases de datos
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-
-### DevOps y herramientas
-
-- Docker
-- Git
-- GitHub
-- Nginx
-- BullMQ
-- Socket.IO
-- Postman
+✔️ Agile Development with Scrum
 
 ---
 
-## 💼 Experiencia
+## 💡 Featured Projects
 
-Durante mi trayectoria he participado en el desarrollo de:
+### 📄 Document Management System
 
-✔ Sistemas de Gestión Documental
+`Laravel` `Angular` `MySQL` `Docker`
 
-✔ Facturación Electrónica
+Enterprise web application for document registration,
+classification, version control, and corporate document management.
 
-✔ Gestión de Inventarios
 
-✔ APIs REST
+### 🛒 E-commerce Platform
 
-✔ Integraciones con servicios externos
+`Node.js` `Express` `Angular` `MySQL` `Redis`
 
-✔ Optimización de consultas SQL
+Full Stack e-commerce platform featuring payment gateway integration,
+webhooks, Redis queues, BullMQ, and real-time notifications using Socket.IO.
 
-✔ Sistemas de autenticación
 
-✔ Aplicaciones empresariales
+### 🌐 Corporate Website
 
-✔ Entornos Docker
+`PHP` `HTML` `CSS` `MySQL`
 
-✔ Desarrollo bajo metodología Scrum
-
----
-
-## 📌 Proyectos Destacados
-
-### 📄 Sistema de Gestión Documental
-
-Aplicación empresarial desarrollada con Laravel y Angular para la radicación, clasificación y administración de documentos corporativos.
-
-**Tecnologías**
-
-Laravel · Angular · MySQL · Docker
+Corporate website with a dynamic content management system for publishing institutional information and news.
 
 ---
 
-### 🛒 Plataforma E-commerce
+## 💡 Philosophy
 
-Proyecto Full Stack con integración de pasarela de pagos, Webhooks, Redis, BullMQ y notificaciones en tiempo real mediante Socket.IO.
+> "I believe great software is built through clean architecture, continuous learning, and attention to detail."
 
-**Tecnologías**
 
-Node.js · Express · Angular · MySQL · Redis
 
----
+### 💬 Let's Connect
 
-### 🌐 Sitio Web Corporativo
 
-Sitio desarrollado con HTML, CSS, PHP y MySQL para la administración dinámica de contenido institucional.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjhern4ndez)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.juanhernandez@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjhern4ndez)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjhern4ndez)&nbsp;
 
----
 
-## 📚 Actualmente aprendiendo
 
-- Arquitectura de Software
-- DevOps
-- Kubernetes
-- AWS
-- CI/CD
-- Microservicios
 
----
-
-## 🤝 Conectemos
-
-💼 LinkedIn
-
-https://linkedin.com/in/jjhern4ndez
-
-📧 developer.juanhernandez@gmail.com
-
-🌎 Colombia
-
----
-
-## 💡 Filosofía
-
-> *"Siempre busco desarrollar software limpio, escalable y mantenible, aplicando buenas prácticas de desarrollo y aprendiendo constantemente nuevas tecnologías."*

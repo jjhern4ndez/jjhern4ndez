@@ -1,3 +1,5 @@
+
+
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:38BDF8&section=header&text=Juan%20Jos%C3%A9%20Hern%C3%A1ndez&fontSize=54&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer%20%E2%80%A2%20Building%20scalable%20web%20applications&descAlignY=60&descSize=18&descColor=C9D1D9)
@@ -7,6 +9,13 @@
 </div>
 
 <br/>
+
+<p align="center">
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=angular,laravel,nodejs,express" />
+ </a>
+</p>
+
 
 ## 🧑‍💻 About Me
 
@@ -29,7 +38,7 @@
 
 <br/>
 
----
+
 ## 📌 Quick Facts
 
 - 💼 Full Stack Software Developer
@@ -39,7 +48,7 @@
 - 🌱 Currently learning Software Architecture, DevOps & Cloud
 - ☕ Coffee-powered developer
 
----
+<br/>
 
 ## ✏️ What I've Worked On
 
@@ -65,48 +74,59 @@ Throughout my career, I've contributed to the development of:
 
 ✔️ Agile Development with Scrum
 
----
+
+<br/>
 
 ## 💡 Featured Projects
 
-### 📄 Document Management System
+### 📄Document Management System
+[![My Skills](https://skillicons.dev/icons?i=laravel,angular,mysql,php,tailwind,docker)](https://skillicons.dev)
 
-`Laravel` `Angular` `MySQL` `Docker`
-
-Enterprise web application for document registration,
-classification, version control, and corporate document management.
+<p>
+	Enterprise web application for document registration,
+	classification, version control, and corporate document management.
+</p>
 
 
 ### 🛒 E-commerce Platform
 
-`Node.js` `Express` `Angular` `MySQL` `Redis`
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,angular,mysql,redis,tailwind,docker,redis,sequelize)](https://skillicons.dev)
 
-Full Stack e-commerce platform featuring payment gateway integration,
-webhooks, Redis queues, BullMQ, and real-time notifications using Socket.IO.
+<p>
+	Full Stack e-commerce platform featuring payment gateway integration,
+	webhooks, Redis queues, BullMQ, and real-time notifications using Socket.IO.
+</p>
 
 
 ### 🌐 Corporate Website
 
-`PHP` `HTML` `CSS` `MySQL`
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,mysql)](https://skillicons.dev)
 
-Corporate website with a dynamic content management system for publishing institutional information and news.
+<p>
+	Corporate website with a dynamic content management system for publishing 
+	institutional information and news.
+</p>
 
----
+<br/>
+
+## Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jjhern4ndez&layout=compact&langs_count=4&hide_values=true&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=jjhern4ndez&layout=compact&langs_count=4&hide_values=true&theme=react)
+
+<br/>
 
 ## 💡 Philosophy
 
 > "I believe great software is built through clean architecture, continuous learning, and attention to detail."
 
+<br/>
 
 
 ### 💬 Let's Connect
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjhern4ndez)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.juanhernandez@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjhern4ndez)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjhern4ndez)&nbsp;
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjhern4ndez)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.juanhernandez@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjhern4ndez)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jjhern4ndez)
 
 
